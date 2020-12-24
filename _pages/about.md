@@ -28,39 +28,39 @@ Proceedings of the ACM International Conference on Supercomputing (**ICS’19**)
 
 Awards
 ======
-Impact Argonne Award, 2020  
-UCR Dean's distinguished fellowship, 2016  
-Tang Lixin YingCai Scholarship, 2015  
-Tang Lixin YingCai Scholarship, 2014  
-The Peoples Special Scholarship, 2014  
-Korean Government Scholarship, 2014  
-China Scholarship Council (CSC) Scholarship, 2014  
-Tang Lixin YingCai Scholarship, 2013  
-National Scholarship, 2013  
-Tang Lixin Excellent New Student Scholarship, 2012
+**•** Impact Argonne Award, 2020  
+**•** UCR Dean's distinguished fellowship, 2016  
+**•** Tang Lixin YingCai Scholarship, 2015  
+**•** Tang Lixin YingCai Scholarship, 2014  
+**•** The Peoples Special Scholarship, 2014  
+**•** Korean Government Scholarship, 2014  
+**•** China Scholarship Council (CSC) Scholarship, 2014  
+**•** Tang Lixin YingCai Scholarship, 2013  
+**•** National Scholarship, 2013  
+**•** Tang Lixin Excellent New Student Scholarship, 2012
 
 ------
 
 Professional Services
 ======
-**Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, Seoul, South Korea,
+**• Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, Seoul, South Korea,
 February 2021 (**PPoPP’21**).  
 
-**Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, San Diego,
+**• Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, San Diego,
 California, USA, February 2020 (**PPoPP’20**).  
 
-**Web Chair** of the Tenth International Workshop on Accelerators and Hybrid Exascale Systems (**AsHES 2020**), held in
+**• Web Chair** of the Tenth International Workshop on Accelerators and Hybrid Exascale Systems (**AsHES 2020**), held in
 conjunction with 34th IEEE International Parallel and Distributed Processing Symposium in New Orleans, Louisiana
 USA, May 2020 (**IPDPS 2020**).  
 
-**Student Volunteer** of the International Conference for High Performance Computing, Networking, Storage, and
+**• Student Volunteer** of the International Conference for High Performance Computing, Networking, Storage, and
 Analysis, Everywhere We Are, November 2020 (**SC’20**).
 
 ------
 
 Projects
 ======
-[MPICH](https://www.mpich.org/) - MPICH is a high performance and widely portable implementation of the Message Passing Interface (MPI) standard. It has been adopted by many institutions, and MPICH and its derivatives form the most widely used implementations of MPI in the world. My interest mainly focuses on intra-node communication performance of MPI on multi- and many-core platforms.
+**•** [MPICH](https://www.mpich.org/) - MPICH is a high performance and widely portable implementation of the Message Passing Interface (MPI) standard. It has been adopted by many institutions, and MPICH and its derivatives form the most widely used implementations of MPI in the world. My interest mainly focuses on intra-node communication performance of MPI on multi- and many-core platforms.
 
 ------
 
