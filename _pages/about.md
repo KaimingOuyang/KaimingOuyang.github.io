@@ -10,6 +10,8 @@ redirect_from:
 
 Kaiming Ouyang is a Research Assistant in the Department of Computer Science and Engineering at University of California, Riverside; he joined SuperLab research group led by Dr. [Zizhong Chen](https://www.cs.ucr.edu/~chen/superlab/index.html) in 2016 and was supported through UCR Dean's distinguished fellowship. He earned his BS in Computer Science and Engineering at [UESTC](https://en.uestc.edu.cn/). He is currently a long-term intern in PMRS group led by Dr. [Pavan Balaji](https://pavanbalaji.github.io/) at Argonne National Laboratory working with Dr. [Min Si](https://www.mcs.anl.gov/~minsi/). His current research focuses on parallel runtime system in high-performance computing.
 
+------
+
 Publication
 ======
 **CAB-MPI: Exploring Interprocess Work Stealing toward Balanced MPI Communication** [PDF](files/CAB-MPI paper.pdf), [Slides](files/CAB-MPI slides.pdf), [Poster](files/CAB-MPI poster.pdf)  
@@ -21,6 +23,8 @@ We Are, November 9-19, 2020
 Jieyang Chen, Nan Xiong, Xin Liang, Dingwen Tao, Sihuan Li, **Kaiming Ouyang**, Kai Zhao, Nathan DeBardeleben,
 Qiang Guan, Zizhong Chen  
 Proceedings of the ACM International Conference on Supercomputing (**ICS’19**), Phoenix, AZ, USA, June 26-28, 2019
+
+------
 
 Awards
 ======
@@ -34,6 +38,8 @@ China Scholarship Council (CSC) Scholarship, 2014
 Tang Lixin YingCai Scholarship, 2013  
 National Scholarship, 2013  
 Tang Lixin Excellent New Student Scholarship, 2012
+
+------
 
 Professional Services
 ======
@@ -50,9 +56,13 @@ USA, May 2020 (**IPDPS 2020**).
 **Student Volunteer** of the International Conference for High Performance Computing, Networking, Storage, and
 Analysis, Everywhere We Are, November 2020 (**SC’20**).
 
+------
+
 Projects
 ======
 [MPICH](https://www.mpich.org/) - MPICH is a high performance and widely portable implementation of the Message Passing Interface (MPI) standard. It has been adopted by many institutions, and MPICH and its derivatives form the most widely used implementations of MPI in the world. My interest mainly focuses on intra-node communication performance of MPI on multi- and many-core platforms.
+
+------
 
 Mantra
 ======
