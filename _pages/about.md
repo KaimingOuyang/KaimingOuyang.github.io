@@ -12,7 +12,15 @@ Kaiming Ouyang is a Research Assistant in the Department of Computer Science and
 
 Publication
 ======
+**CAB-MPI: Exploring Interprocess Work Stealing toward Balanced MPI Communication** [PDF](files/CAB-MPI paper.pdf), [Slides](files/CAB-MPI slides.pdf), [Poster](files/CAB-MPI poster.pdf)  
+**Kaiming Ouyang**, Min Si, Atsushi Hori, Zizhong Chen, Pavan Balaji  
+International Conference for High Performance Computing, Networking, Storage and Analysis (**SC’20**), Is Everywhere
+We Are, November 9-19, 2020
 
+**TSM2: optimizing tall-and-skinny matrix-matrix multiplication on GPUs** [PDF](files/ICS19-TSM2.pdf)  
+Jieyang Chen, Nan Xiong, Xin Liang, Dingwen Tao, Sihuan Li, **Kaiming Ouyang**, Kai Zhao, Nathan DeBardeleben,
+Qiang Guan, Zizhong Chen  
+Proceedings of the ACM International Conference on Supercomputing (**ICS’19**), Phoenix, AZ, USA, June 26-28, 2019
 
 Awards
 ======
