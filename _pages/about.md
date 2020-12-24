@@ -37,6 +37,18 @@ Tang Lixin Excellent New Student Scholarship, 2012
 
 Professional Services
 ======
+**Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, Seoul, South Korea,
+February 2021 (**PPoPP’21**).  
+
+**Artifact Evaluation Committee** of Symposium on Principles and Practice of Parallel Programming, San Diego,
+California, USA, February 2020 (**PPoPP’20**).  
+
+**Web Chair** of the Tenth International Workshop on Accelerators and Hybrid Exascale Systems (**AsHES 2020**), held in
+conjunction with 34th IEEE International Parallel and Distributed Processing Symposium in New Orleans, Louisiana
+USA, May 2020 (**IPDPS 2020**).  
+
+**Student Volunteer** of the International Conference for High Performance Computing, Networking, Storage, and
+Analysis, Everywhere We Are, November 2020 (**SC’20**).
 
 Projects
 ======
