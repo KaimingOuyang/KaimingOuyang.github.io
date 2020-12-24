@@ -24,6 +24,16 @@ Proceedings of the ACM International Conference on Supercomputing (**ICS’19**)
 
 Awards
 ======
+Impact Argonne Award, 2020  
+UCR Dean's distinguished fellowship, 2016  
+Tang Lixin YingCai Scholarship, 2015  
+Tang Lixin YingCai Scholarship, 2014  
+The Peoples Special Scholarship, 2014  
+Korean Government Scholarship, 2014  
+China Scholarship Council (CSC) Scholarship, 2014  
+Tang Lixin YingCai Scholarship, 2013  
+National Scholarship, 2013  
+Tang Lixin Excellent New Student Scholarship, 2012
 
 Professional Services
 ======
